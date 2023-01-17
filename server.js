@@ -26,5 +26,5 @@ bot.on('message', (msg) => {
     const chatId = msg.chat.id;
 
     // send a message to the chat acknowledging receipt of their message
-    bot.sendMessage(chatId, 'श्रीराम का भक्त की राम-राम !');
+    bot.sendMessage(chatId, 'Hello I Am Mukul!');
 });
